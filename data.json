@@ -1,0 +1,57 @@
+[
+    {
+        "name": "John",
+        "age": 30,
+        "email": "john@gmail.com",
+        "courses": ["Math", "Science", "History"],
+        "address": {
+            "street": "123 Main St",
+            "city": "New York",
+            "zipcode": "10001"
+        }
+    },
+    {
+        "name": "Alice",
+        "age": 25,
+        "email": "john@gmail.com",
+        "courses": ["English", "Art", "Biology"],
+        "address": {
+            "street": "456 Elm St",
+            "city": "Los Angeles",
+            "zipcode": "90001"
+        }
+    },
+    {
+        "name": "Bob",
+        "age": 28,
+        "email": "john@gmail.com",
+        "courses": ["Physics", "Chemistry", "Math"],
+        "address": {
+            "street": "789 Maple St",
+            "city": "Chicago",
+            "zipcode": "60601"
+        }
+    },
+    {
+        "name": "Eve",
+        "age": 22,
+        "email": "john@gmail.com",
+        "courses": ["Computer Science", "Math", "Physics"],
+        "address": {
+            "street": "101 Pine St",
+            "city": "San Francisco",
+            "zipcode": "94101"
+        }
+    },
+    {
+        "name": "Charlie",
+        "age": 27,
+        "email": "john@gmail.com",
+        "courses": ["History", "Geography", "Literature"],
+        "address": {
+            "street": "202 Oak St",
+            "city": "Houston",
+            "zipcode": "77001"
+        }
+    }
+]
